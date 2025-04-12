@@ -1,5 +1,6 @@
-# Dog-suite
 <img src=logo.png width=200>
+
+# Dog-suite
 
 **Dog-suite** is a Burp Suite extension that automatically replaces all images in HTTP responses with pictures of dogs.
 
